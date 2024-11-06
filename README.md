@@ -1,2 +1,2 @@
 # Hospital_Management
-Hospital Management project created by using HTML5, CSS3,Bootstrap5
+Hospital Management project created by using HTML5, CSS3,Bootstrap5, jsp
